@@ -11,7 +11,7 @@ git clone https://github.com/slightlynerd/componentize-web-apps.git
 ## Run locally
 
 ```
-cd componentize-your-web-apps
+cd componentize-web-apps
 python -m SimpleHTTPServer 8080
 ```
 
