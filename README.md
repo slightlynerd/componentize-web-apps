@@ -5,7 +5,7 @@ This folder contains a custom element built with the web components spec
 ## Setup
 
 ```
-git clone https://github.com/slightlynerd/slightlynerd.github.io.git componentize-your-web-apps
+git clone https://github.com/slightlynerd/componentize-web-apps.git
 ```
 
 ## Run locally
